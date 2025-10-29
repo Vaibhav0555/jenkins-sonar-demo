@@ -18,7 +18,7 @@
 		<jacoco.version>0.7.5.201505241946</jacoco.version>
 		<junit.version>4.12</junit.version>
 		<!-- Added dependency for Sonar Scanner -->
-		<sonar.organization>vcjain</sonar.organization>
+		<sonar.organization>devops-by-vaibhav</sonar.organization>
 	</properties>
 	<dependencies>
 		<dependency>
